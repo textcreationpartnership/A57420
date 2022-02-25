@@ -1,0 +1,967 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Englands prayers to heaven for mercy with very good instructions to all people in these dangerous times to call to the Lord for mercy in time, exhorting every Christian to take heed they be not deceived in these dangerous times / written by Thomas Robins.</title>
+            <author>Robins, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57420</idno>
+            <idno type="STC">Wing R1650</idno>
+            <idno type="STC">ESTC R29323</idno>
+            <idno type="EEBO-CITATION">11076463</idno>
+            <idno type="OCLC">ocm 11076463</idno>
+            <idno type="VID">46249</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57420)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46249)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1430:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Englands prayers to heaven for mercy with very good instructions to all people in these dangerous times to call to the Lord for mercy in time, exhorting every Christian to take heed they be not deceived in these dangerous times / written by Thomas Robins.</title>
+                  <author>Robins, Thomas.</author>
+               </titleStmt>
+               <extent>[23], p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by E.B. for John Stafford ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1657.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: pages tightly bound with print show-through.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Prayer-books and devotions.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:46249:1"/>
+               <pb facs="tcp:46249:1" rendition="simple:additions"/> 
+               <hi>Englands</hi> PRAYers TO HEAVEN FOR MERCY:</p>
+            <p>With very good inſtructions to all people in theſe dangerous times, to call to the Lord for mercy in time, exhorting every Chri<g ref="char:EOLhyphen"/>ſtian to take heed they be not deceived in theſe dange<g ref="char:EOLhyphen"/>rous times.</p>
+            <q>
+               <bibl>Pſal 9. verſe 13.</bibl>
+               <p>
+                  <hi>Have mercy upon me, O Lord, conſider my trouble which I ſuffer of them that hate me, thou that lifteſt me up from the gates of death.</hi>
+               </p>
+            </q>
+            <p>Written by <hi>Thomas Robins.</hi> B. of D.</p>
+            <p>LONDON: Printed by <hi>E. B.</hi> for <hi>John Stafford,</hi> and are to be ſold at his houſe at the George at <hi>Fleetbridge,</hi> 1657.</p>
+            <pb facs="tcp:46249:2"/>
+         </div>
+         <div type="printers_device">
+            <p>
+               <pb facs="tcp:46249:2"/>
+               <figure>
+                  <figDesc>printer's device, presumably of John Stafford, who does not appear in McKerrow</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="epigraph">
+            <pb facs="tcp:46249:3"/>
+            <q>
+               <bibl>
+                  <hi>Pſal.</hi> 49. 1. 2.</bibl>
+               <p>Hear this, all ye people, give ear al<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e inhabitants of the world:</p>
+               <p n="2">2 Both low and high, rich and poor <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ogether.</p>
+            </q>
+            <p>
+               <figure>
+                  <figDesc>frontispiece of a kneeling man praying</figDesc>
+                  <sp>
+                     <p>
+                        <hi>Mercy</hi> LORD</p>
+                  </sp>
+               </figure>
+            </p>
+            <pb facs="tcp:46249:3"/>
+            <pb facs="tcp:46249:4"/>
+         </div>
+      </front>
+      <body>
+         <div type="prayer">
+            <pb facs="tcp:46249:4"/>
+            <epigraph>
+               <q>
+                  <bibl>1 <hi>Timothy chap</hi> 2. <hi>verſ</hi> 1.</bibl>
+                  <p>I exhort therefore, that firſt of all, ſupplicati<g ref="char:EOLhyphen"/>ons, prayers, interceſſions, and giving of thanks be made for all men.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">M</seg>Y beloved brethren, here you may underſtand the humble obedience that belongs to every one that doth deſire to be a faithfull ſer<g ref="char:EOLhyphen"/>vant to the Lord, as you may un<g ref="char:EOLhyphen"/>derſtand by this place of Scripture, for <hi>Paul,</hi> here you may ſee gave <hi>Timothy</hi> a charge over the people, to let prayer be made for all men, and indéed good people, I cannot perceive but
+<hi>Paul</hi> did ſée they was a wicked and a ſinfull people, ſo he thought that by prayer they might be con<g ref="char:EOLhyphen"/>verted, but alas how many is there now a dayes that would have a ſinner converted by prayer: no my brethren, we now a dayes fly too much off the Apoſtles rules, and the reaſon is, we think our wits far better than theirs, for rather then we will pray for a ſinner: nay, we had rather curſe them; but good people I would deſire e<g ref="char:EOLhyphen"/>very one of you to take the ſame exhortation that <hi>Paul</hi> gave to <hi>Timothy,</hi> that is, to pray for all men: for if you ſee a drunkard take heed of him,
+<pb facs="tcp:46249:5"/> but pray for him: if you ſée a ſwearer, deligh<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not in his company, but pray for him<hi>:</hi> if you ſ<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> a whoremonger, take héed of his wickedneſſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> but pray for him: for you may perceive where b<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> this place of Scripture that we ought to pray f<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> all men a<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>de by Gods Grace we may prevail<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for in the 5 <hi>chap<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Jam<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s and <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he</hi>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>6 <hi>verſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> there you have a rule for it, why you ſhould pra<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for all men, and this is the rule that you may b<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> healed: nay my brethren there is great comfo<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> too for every one that will pray faith<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ully: f<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> in this verſe of this chapter you may find th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the prayers of the faithfull ſhall prevaile as y<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> may find it written in <hi>Jame<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> 5 16. therefore <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the name of God, I would deſire every go<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Chriſtian to give their mind to pra<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er and wi<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> as good confidence as the Prophet <hi>David <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Pſalme.</hi> 62. 1. In theſe words, <hi>T<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uly my ſo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> waiteth upon God: from him cometh my ſa<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>vation.</hi> Indéed I would deſire every good Chr<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſtian to have as good confidence in the Lord, <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Prophets had: for certainly we muſt ha<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a good confidence in the Lord if we mean to <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſaved, and have as much power in ſpirit as <hi>D<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>vid</hi> had, then may we boldly ſay as he ſaid <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <hi>Pſalme.</hi> 73. 24. In theſe words, <hi>Thou ſha<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> guide me with thy counſel, and afterward r<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ceive me to thy glory. and in the</hi> 25 <hi>verſ.</hi> the<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> you may ſée the confidence that he had in Go<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb facs="tcp:46249:5"/> more than in man: for ſaid he, <hi>Whome have I in heaven but thee? and there is none upon Earth that I deſire beſides thee.</hi> Indeed good people, we ought to have no confidence in any man, but in God: which the Lord of his mercy give every man, woman and child, grace to ſerve him and obey him, till the hour of death: which indeed we do not know how ſoon it may pleaſe God to call us: Indeed we do not know how ſoon, it may be to night before to morrow, no man can tell when. Therefore as the Apoſtle ſaid in <hi>Mark</hi> 13. 33. <hi>Take yee heed, watch and pray; for ye know not when the time is.</hi>
+            </p>
+            <p>Indeed my brethren, you may perceive heere, that we have no time ſet, when the time of the coming of our Lord and Saviour ſhall be: there<g ref="char:EOLhyphen"/>fore it is good for us all to have a care in time. for fear the Lord give us a juſt cauſe to cry out as Zion did, as you may find it written in the <hi>Lamentations</hi> 4. 4 in theſe words, <hi>The tongue of the ſucking child cleavet<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to the roof of his mouth for thirſt: the young children ask bread, and no man breaketh it unto them.</hi> And in the 5 verſe of this Chapter, there you may ſee what miſery came upon theſe people for ſin: they that did feed delicately, are deſolate in the ſtreets, they that were brought up in ſcarlets, embrace dunghils.</p>
+            <p>I would deſire every good Chriſtian to take
+<pb facs="tcp:46249:6"/> heed in time, for fear the Lord execute the very
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ame judgment upon theſe Lands and Nations that we live in; for by wofull experience, too many in theſe times have found it too true, that the very ſame judgments, partly upon a great many, for in many places you may ſee many a brave Houſe and Family ruinated and gone to decay, which certainly, was not altogether for their owne ſins, no my brethren, I am affraid that we all ſtand guilty of ſin. and although the Lord ſpare us for a time, to ſee if we will repent, yet certainly without true repentance, the Lord will not ſpare us no more then he ſpared <hi>Egypt,</hi> when he threatned their deſtruction, as you may find it written in the 32 <hi>chap. of Ezekiel, be<g ref="char:EOLhyphen"/>gining at the</hi> 9 <hi>verſe, and ſo to the</hi> 12.</p>
+            <p>
+               <hi>I will alſo vex the hearts of many people, when I ſhall bring thy deſtruction among the Nations, into the Countreys which thou haſt not known.</hi>
+            </p>
+            <p n="10">10 <hi>Yea, I will make many people amazed at thee, and their Kings ſhall be horribly afraid of thee, when I ſhall brandiſh my ſword before them, and they ſhall tremble at every moment; every man for his own life, in the day of thy fall.</hi> 11 <hi>For thus ſaith the Lord GOD, The ſword of the King of Babylon ſhall come upon thee.</hi>
+            </p>
+            <p n="12">12 <hi>By the ſwords of the mighty will I cauſe</hi>
+               <pb facs="tcp:46249:6"/> 
+               <hi>thy multitude to fall, the terrible of the Nati<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ns all of them, and they ſhall ſpoyl the pomp
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Egypt, and all the multitude thereof ſhall be
+<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſtroyed.</hi>
+            </p>
+            <p>Indéed my brethren, you may ſee here by this
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ace of Scripture, that the Lord threatned the
+<hi>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gyptians</hi> with moſt heavy judgments for their <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s, and doe not we think that our ſins be as <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eat as theirs: yes certainly, and greater too, <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erefore in the name of God, let us all pray un<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the Lord for mercy, and ſurely he will hear <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, for he hath no delight in the death of the <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>icked: but he had rather that we ſhould turne <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>om our wicked wayes, and repent: and be
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nverted: And indeed I would de<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ire every
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e of you young or old, rich or poore, to doe
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur beſt endeavours to forſake your wicked
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ayes, for as the Lord ſaid to
+<hi>Ezekiel,</hi> ſo I ſay <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>to you all here preſent: Therefore O thou <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n of man, ſpeake unto the houſe of <hi>Iſrael,</hi> thus <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſpake ſaying, if our tranſgreſſions and our
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s be upon us, and we pine away in them, how
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>all we then live, <hi>Ez<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>el</hi> 33. 10. here good <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eople you may ſee that theſe people was afraid <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at they ſhould pine away in their ſins, I but <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e what comfort the Lord ſends by <hi>Ez<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>kiel</hi> in
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e 11 <hi>verſ.</hi> of this Chapter, in theſe words, <hi>Say <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>to them, As I live, ſaith the Lo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d GOD, I
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ve no pleaſure in the death of the wicked, but</hi>
+               <pb facs="tcp:46249:7"/> 
+               <hi>that the wicked turn from his way, and liv<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> turn ye, turn ye from your evill wayes; for w<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> will ye die, O houſe of Iſrael?</hi>
+            </p>
+            <p>Indeed you may ſee here, the Lord hath no d<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſire that we ſhould die in our wickedneſſe:
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> he had rather that we would turn from o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> wicked wayes and live: which the Lord of h<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> heavenly mercy, give us all grace ſo to do: th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it may be the Lord will ſpeak as comfortably this Land, as he did to the Land of <hi>Iſrael,</hi> theſe words, <hi>Ther<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fore thus ſaith the Lo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> GOD, I have lifted up mine hand, ſurely t<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> heathen that are about you, they ſhall bear the ſhame.</hi>
+            </p>
+            <p>
+               <hi>For behold, I am for you, and I will tur<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> unto you, and ye ſhall be tilled and ſown.</hi> you may find it written in the 36 of
+<hi>Ezeki<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the</hi> 7 <hi>and</hi> 9
+<hi>verſes.</hi>
+            </p>
+            <p>And indeed, I would deſire you all that <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> here preſent to take notice what you hear at th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> preſent, and the Lord of his mercy give us a<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> grace to make good uſe of it: Indéed my brethre<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> I would deſire to move one queſtion to you, a<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that is this, in caſe the day of doome was to da<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> which the Lord knowes how ſoon it may com<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it may be this very hour, for any thing that w<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> know: what anſwer could we make to ſo lovi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and mercifull a God as we have: Indeed I a<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> perſwaded that we ſhould be very unready: n<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb facs="tcp:46249:7"/> I do beleeve that we ſhould not be able to look him in the face, no nor able to make an anſwer for the leaſt ſin of ten thouſand: Therefore I deſire you all to cry and call to the Lord for mer<g ref="char:EOLhyphen"/>cy, before it be too late: for indeed we do not know how ſoon the Lord will call us; For certainly there is but a few things to come to paſſe, which our Saviour Chriſt told his Diſci<g ref="char:EOLhyphen"/>ples in <hi>Mat<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hew</hi> 24 what ſhould come to paſſe, for ſaid he Nation ſhall riſe againſt Nation and by wofu<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l experience we have ſeen that ful filled
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n the<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e times that we live in, and he told them that there ſhould be falſe Teachers, and falſe Prophets, and falſe Chriſts, and all this we
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay boldly ſay, we ſee come to paſſe in our days, for juſt ſuch as Chriſt ſaid ſhould be, ſuch be now: for in many places there is a ſort of people that will not ſtick to ſay that they be Chriſt, which
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s moſt abominable that they ſhould be ſuffer<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d: the M<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>niſters are counted by them bal<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Prieſts, and babling Fellowes: But I would deſire every good Chriſtian to have a care of <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hem, behold I have told you be<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ore, <hi>Ma<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>hew</hi> 24 25. and indeed good people, there is a great many more warning peices in the Scripture, which indeed I cannot underſtand, but either all
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r the moſt of them are come to paſſe already: <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut onely the calling of the Iewes, and indeed <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e do not know how ſoon that may be: it may
+<pb facs="tcp:46249:8"/> be now for any thing that we know, for it is n<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> very long ſince they made great preparations
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> come into this land, where I hope the light
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Goſpell doth ſhine, and I hope the Lord o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of his mercy will continue it among us, while<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Sun and Moon endures; But I truſt
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> God that he will put it to the hearts of our R<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>lers, that they ſhall never have the power to i<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>vade us: for they that would betray our bleſſe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Lord and Saviour. Such as thoſe can hardl<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> be true to man: no, we have had fair example<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> enough before hand: I would deſire you but <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> looke into the Booke of Martyrs, and you m<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hear how moſt barbarouſly they uſed the Chr<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſtians that confeſſed the Goſpel of Chriſt, an<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> certainly I do beléeve that they would have <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> more mercy on us, then they had of them, <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> had the ſame power, which I truſt the Lord wi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> never give it them: Indéed my brethren, I ca<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not perceive but we have Iewes enough alrea<g ref="char:EOLunhyphen"/>dy, for as our Saviour ſaid, that the Fathe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhould be againſt the Son, and the Son again<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Father, ſo it is now, for the Father woul<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſell the life of the Son, and the Son the Fathe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> now a dayes, and indeed I cannot perceive b<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſuch as theſe be Iewes bad enough, but as <hi>Da<g ref="char:EOLunhyphen"/>vid</hi> ſaid in the 59 <hi>Pſalme and the</hi> 1 <hi>and</hi> 2 <hi>ver<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> ſo I would deſire every good Chriſtian to pr<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> as he did, and that with a true heart, and the<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb facs="tcp:46249:8"/> 
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e the words, <hi>Deliver me from mine enemies, O my God: defend me from them that riſe up againſt me.</hi>
+            </p>
+            <p n="2">2 <hi>Deliver me from the workers of iniquity, and ſave me from bloody men.</hi>
+            </p>
+            <p>
+               <hi>Prov.</hi> 4. 1, 2, 13. <hi>Hear, ye children, the in<g ref="char:EOLhyphen"/>ſtruction of a father, and attend to know un<g ref="char:EOLhyphen"/>derſtanding.</hi>
+            </p>
+            <p n="2">2. <hi>For I give you good doctrine: forſake you not my law<g ref="char:punc">▪</g>
+               </hi> and in the thirteenth verſe,</p>
+            <p>
+               <hi>Take faſt hold of inſtruction, let her not go; keep her, for ſhe is thy life.</hi>
+            </p>
+            <p>Which I pray God give every good Chriſti<g ref="char:EOLhyphen"/>an grace to take good counſell, for indéed we ſtand in great need of it<hi>:</hi> for truly my brethren the times is juſt as the Prophet
+<hi>Iſaiah</hi> ſaid, ſhould be in the 3 <hi>of Iſaiah and the</hi> 5 <hi>verſe.</hi>
+            </p>
+            <p>
+               <hi>And the people ſhall be oppreſſed, every one by another, and every one by his neighbour<hi>:</hi> the child ſhall behave himſelfe proudly againſt the ancient, and the baſe againſt the ho<g ref="char:EOLhyphen"/>nourable.</hi>
+            </p>
+            <p>And indeed juſt ſo it is now, for never was there more oppreſſing both of poor and rich, and as for the behaviour of children: I do beleeve that it is as plainly fulfilled as can be juſt now: for let a child of twelve years of age méet a man of fourſcore, and you ſhall ſee him paſſe by as proudly, as if he were not worthy to dry his
+<pb facs="tcp:46249:9"/> ſhooes, which is a ſhame to ſee it, and indeed I muſt needs tell ſuch Parents with fire which i<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a moſt heavy judgment, and doe wée not thin<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that we deſerve it too: yes certainly we doe deſerve as much as they: indeed the Lord hath given us many faire warning peices by fire, in many places in this Land: yet there is bu<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſmall crying out to God for mercy, no longer then we either ſee it, or hear of it, juſt as a child feares the rod no longer then he is a beating: bu<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in the name of God every good Chriſtian pray unto the Lord night and day, that he may be mercifull unto our poore ſoules at the latter day and hour of death <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> may we come to hear tha<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> bleſſed voyce of our Lord and Saviour ſounding in our eare.</p>
+            <p>
+               <hi>Matthew</hi> 25. 34. <hi>Come ye bleſſed of my Fa<g ref="char:EOLunhyphen"/>ther, inherit the kingdome prepared for you from the foundation of <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he world.</hi>
+            </p>
+            <p>And indeed a bleſſed ſounding it is, and th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Lord give us grace to prepare our hearts, ſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> here upon earth, that we may have both ou<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hearts and eares, that we may be ready at th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> coming of our Lord and Saviour Ieſus Chriſt therfore I would deſire all to,
+<hi>Take heed, watc<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and pray: for
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e know not when the time i<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Mark.</hi> 13. <hi>verſ.</hi> 33.</p>
+            <p>And once more I do exhort you to take he<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb facs="tcp:46249:9"/> that you be not deceived in theſe dangerous
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nes, for the Lord gives us a faire warning to
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke heed.</p>
+            <p>
+               <hi>Matthew.</hi> 24. 4, 5. <hi>And Jeſus anſwered and
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d unto them, Take heed that no man deceive
+<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</hi>
+            </p>
+            <p n="5">5 <hi>For many ſhall come in my Name ſaying,
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m Chriſt: and ſhall deceive many.</hi>
+            </p>
+            <p>Indeed this is come to paſſe now a dares, for
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u may ſee ſuch abroad in many places: I but would deſire every one of you to have a care of
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>em, for as <hi>Paul</hi> ſaid in the ſecond of <hi>Timothy chap</hi> 3 <hi>verſ. For the time will come when
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y will not endure found doctrine, but after
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eir own luſts ſhall they heap to themſelves <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>chers, having i<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng ea<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s.</hi>
+            </p>
+            <p>And indeed there is a great many of thoſe a<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ad but have a care of them, for certainly if
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ey ſhould entangle you in their ſnare of delu<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n, you will not ſo eaſily get out, for they be 2 <hi>Timothy</hi> 3. 4. <hi>Traitours, heady, high<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nded, lovers of pleaſures more then lovers
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> God.</hi>
+            </p>
+            <p>Indeed my brethren I would deſire you to <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e a care of them for fear they ſhould deceive <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, ſo I would deſire you not to diſpiſe them, <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> certainly they be that people our Saviour
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d ſhould come and therefore we ought not to
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>piſe, but exhort them, and pray for them, and
+<pb facs="tcp:46249:10"/> love their perſon; but abhor their conditions: f<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> though they be a ſeducing people, which Chri<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſaid ſhould come: yet they be our brethren i<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the ſame form and ſhape of man, and wh<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> knowes how ſoone it may pleaſe the Lord t<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> call them back againe, as he did <hi>Saul</hi> by th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> high-way, therefore in the name of God, let u<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> pray for their converſion, for <hi>Timothy</hi> charge<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the people that they ſhould pray for all men, a<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> you may find it written in the firſt of <hi>Timoth<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> and the ſecond chapter, and the firſt verſe. <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> theſe words:
+<hi>I exhort therefore, that firſt <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> all, ſupplications, prayers, interceſſions, an<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> giving of thanks be made for all men.</hi>
+            </p>
+            <p>Indeed by this place of ſcripture, I canno<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> perceive but we muſt pray for them, as w<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> would do for our ſelves, which the Lord of hi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> mercy put it into the hearts of every good Chri<g ref="char:EOLunhyphen"/>ſtian ſo to do, and as <hi>David</hi> ſaid in the
+37 <hi>Pſa<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> and the firſt and ſecond verſes, ſo I ſay to yo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> all that be here preſent<hi>: Fret not thy ſelfe be<g ref="char:EOLunhyphen"/>cauſe of evil doers, neither be thou envious a<g ref="char:EOLunhyphen"/>gainſt the workers of iniquity. For they ſha<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſoon be cut downe like the graſſe, and with<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> as the green herb.</hi>
+            </p>
+            <p>So here you may ſee, <hi>David</hi> gives us a fai<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> exhortation here in this <hi>Pſalme</hi> that we ſhou<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not fret at the wicked, and in the 35 and 36 v<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of this <hi>Pſalme</hi> there ſayes <hi>David: I have ſe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>
+               <pb facs="tcp:46249:10"/> 
+               <hi>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he wicked in great power, and ſpreading <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>imſelfe like a green bay-tree. Yet he paſ<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d away, and Io, he was not: yea, I ſought <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>im, but he could not be found.</hi> Here my <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ethren, you may perceive, that if we will <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut wait with patience, they will all vaniſh <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>way in time: therefore as it is written in <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e 34 verſ.
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f this Pſalme, <hi>Wait on the
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ord, and ke<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>p his way, and he ſhall exalt
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hee to inherit the land: when the wicked
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e cut off, thou ſhalt ſee it.</hi> Indéed it is <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſt for us all to look into our owne ſins, and <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y and call night &amp; day for mercy for them, <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd let us call to mind the lamentation of <hi>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eruſalem: All her people ſigh, they ſeeke read, they have given their pleaſant things
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or meat to relieve the ſoul: ſee, O Lord,
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd conſider, for I am become vile, Lamen<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tions</hi> the firſt and the 11 verſ. and in the
+2 ver. there you may here parents, that it is <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng of them: <hi>Train up a child in the way <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e ſhould go: and when he is old, he will <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ot depart from it. Proverbs</hi> 22. 6. <hi>And <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hildren, obey your parents in the Lord:
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r this is right. Epheſians</hi> the 6 and the
+1 <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d the 2 verſes. Honour thy Father and
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>other, which is the firſt Commandement
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ith promiſe, and in the 20 Chapter of Exo<g ref="char:EOLhyphen"/>dus
+<pb facs="tcp:46249:11"/> and the 12 verſ. there you ſhall find tha<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is one of the Commandements that the Lor<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> commanded the people to keep, that is to ſay<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Honour thy Father and thy Mother tha<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thy dayes may be long in the Land whic<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Lord thy God giveth thee: for as yo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> may find it in Proverbs the 19 and the 2<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> verſ. <hi>He that waſteth his father, and caſt<g ref="char:EOLunhyphen"/>eth away his mother, is a ſon that cauſet<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſhame, and bringeth reproach.</hi> And indée<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> there be too many ſuch diſobedient childre<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> now a dayes, which the Lord of his merc<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> give them all grace to amend, for certainl<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they cannot ſay with a true heart that the<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> feare God, if they do not honor father an<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> mother, and I pray God give us all grace t<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> amend our wicked lives, and pray to th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Lord, for feare he ſhould come upon us, as h<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> did upon <hi>Jeruſalem,</hi> in the 20 of
+<hi>Ezekiel</hi> an<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the 45. 46, 47. verſes.
+<hi>Moreover, the wor<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of the Lord came unto me, ſaying, Son <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> man, ſet thy face toward the ſouth, a<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> drop thy word toward the ſouth, and pro<g ref="char:EOLunhyphen"/>pheſie againſt the forreſt of the ſouth fiel<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> And ſay to the forreſt of the ſouth, Hear th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> word of the Lord, Thus ſaith the Lord Go<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Behold, I will kindle a fire in thee, and ſhall devour every green tree in thee, and</hi>
+               <pb facs="tcp:46249:11"/> 
+               <hi>very dry tree: the flaming flame ſhall not
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e quenched, and all faces from the ſouth
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o the north ſhall be burnt therein.</hi>
+            </p>
+            <p>Indeed my brethren, here you ſee that the Lord threatned the people with fire, here her
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>amentation for the miſery that the Lord had
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rought her to, by reaſon of her ſin, which
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>akes her lament, in theſe words: <hi>Is it
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>othing to you, all ye that paſſe by? behold
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd ſee, if there be any ſorrow like unto my
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>orrow, which is done unto me, wherewith
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Lord hath afflicted me, in the day of his
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erce anger.</hi> and in the 4 chap. of
+<hi>Lamenta.</hi> 
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd the 6 verſ. <hi>For the puniſhment of the <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>niqui<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y of the daughter of my people, is
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>reater then the puniſhment of the ſin of
+<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>dom, that was overthrown as in a mo<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ent, and no hand ſtayed on her.</hi>
+            </p>
+            <p>Therefore my brethren. to draw to a con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uſion, I exhort you all in the name of God
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> take notice of what you have heard at this
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reſent, and ſtrive by all meanes to make
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me good uſe of it, which muſt be done by
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rayer, and take heed of deſpiſing one another <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd beg night and day of the Lord, to ſend <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>own his ſpirituall grace into the hearts of <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>very one of us, that we may deſerve his <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ercy at the hour of death: and that for
+<pb facs="tcp:46249:12"/> Ieſus Chriſt his ſake, to whome be give<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> as is moſt due: all honour power and praiſe both now and for ever more,
+<hi>Amen.</hi>
+            </p>
+            <closer>
+               <signed>I am yours in Chriſt Jeſus till death. T. R.</signed>
+            </closer>
+         </div>
+         <div type="prayer">
+            <pb facs="tcp:46249:12"/>
+            <head>A Prayer to conclude, fit for every Chri<g ref="char:EOLhyphen"/>ſtian to make uſe of.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Pſal.</hi> 102. 1.</bibl>
+                  <p>
+                     <hi>Hear our Prayers, O Lord, and let our crying come unto thee.</hi>
+                  </p>
+               </q>
+            </epigraph>
+            <p>
+               <hi>O</hi> thou eternall and everlaſting Lord God, Maker and Creator of Heaven and Earth, in whome we live, move and have our being, thou, whome the windes and Seaes doth obey: in whoſe powerfull hands are all the corners of the Earth, we thy poor diſtreſſed ſervants and children, do in all humility of ſpirit, ſend up our petitions and prayers unto the throne of thy divine Maje<g ref="char:EOLhyphen"/>ſty, deſiring upon the bended knees of our penitent hearts, that thou wilt be pleaſed to hear, and graciouſly to anſwer theſe our ſup<g ref="char:EOLhyphen"/>plications which we make unto thee: wee do acknowledge, O Lord, that before wée could do any thing we could ſin, and when we could do any thing, we could do nothing but ſin; neither are we able of our ſelves to think a good thought much leſſe to do a good deed; therefore O Lord, we caſt our ſelves, our ſouls and our bodies, only upon thy mer<g ref="char:EOLhyphen"/>cies<hi>:</hi> therefore we beſeech thée to guide us in all our actions, and to bleſſe our up-riſing and lying down, our goings forth and our
+<pb facs="tcp:46249:13"/> coming in: guide our hands that they do n<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> harme, guide our tongues that they ſpeak<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> no evill, guide our eares that they hearke<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not to every vaine talk, which tends to n<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> good purpoſe: guide our eyes that they wan<g ref="char:EOLunhyphen"/>der not after the vain delights and pleaſure<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of this ſinfull world: guide our hearts with the grace of thy holy ſpirit, ſo that every one of us may be contented with that portion that thou haſt allotted for us, and not to co<g ref="char:EOLhyphen"/>vet and deſire other mens goods, more the<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> becoms us to do: guide our feet that they may tread in true paths of righteouſneſſe, which may bring us into the way to life e<g ref="char:EOLhyphen"/>verlaſting; Moreover we pray thee to for<g ref="char:EOLhyphen"/>give us all our ſins which we have formerly committed, and that we may make better uſe of the time to come, then heretofore we have done, and that we may love thee O Lord a<g ref="char:EOLhyphen"/>bove all things, and our neighbours as our ſelves, laying apart all hypocriſie, fraud, de<g ref="char:EOLhyphen"/>ceit and diſſimulation, all vaine and idle talks, all curſing, ſwearing, and blaſpheam<g ref="char:EOLhyphen"/>ing, all envy, pride, covetouſneſſe, hatred and malice, and all other uncharitable deal<g ref="char:EOLhyphen"/>ings: ſo that whilſt it is thy good pleaſure that we ſhall remaine in this tranſitory world, we may live in thy fear, and at the
+<pb facs="tcp:46249:13"/> laſt, dye in thy favour, ſo that after this life
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nded, we may enjoy eternall happineſſe in
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he kingdom of heaven, and that for the ſake
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f thy only Son, our only Saviour, Ieſus Chriſt our Lord, to whom with thee and the Holy Ghoſt, thrée perſons and one e<g ref="char:EOLhyphen"/>ver living God, be all honour and glory, power, praiſe, might, majeſty and thankſgi<g ref="char:EOLhyphen"/>ving, both now and for ever <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:46249:14"/>
+            <pb facs="tcp:46249:14"/>
+         </div>
+      </body>
+   </text>
+</TEI>
